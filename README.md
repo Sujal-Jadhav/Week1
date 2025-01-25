@@ -46,7 +46,11 @@ License This project is licensed under the MIT License.
 Acknowledgments
 
 https://keras.io/
+
 https://www.tensorflow.org/
+
 https://numpy.org/
+
 https://matplotlib.org/
+
 https://scikit-learn.org/
