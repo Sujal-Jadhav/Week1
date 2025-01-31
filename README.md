@@ -1,4 +1,4 @@
-# Week1
+# Week2
 CNN Model for Waste Management
 A deep learning-based approach to classify waste into different categories using Convolutional Neural Networks (CNNs).
 
